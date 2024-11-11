@@ -1,0 +1,8 @@
+fastapi==0.88.0
+uvicorn[standard]==0.20.0
+transformers==4.38.2
+setfit==1.0.3
+gliner==0.2.7
+textdistance==4.5.0
+huggingface_hub==0.23.5
+torch==2.4.1
